@@ -3,7 +3,6 @@
 ### 🧑‍💻 About Me  
 - 🎓 **Student** at [@Alura](https://www.alura.com.br)  
 - 🔧 Focused on **Back-end Development**  
-- 🎂 17 y.o. 
 
 ## I'm currently learning:
 
