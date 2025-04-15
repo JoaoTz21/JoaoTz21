@@ -1,5 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is João Victor and my nickname is "JoãoTz"!
+### 🧑‍💻 About Me  
+- 🎓 **Student** at [@Alura](https://www.alura.com.br)  
+- 🔧 Focused on **Back-end Development**  
+- 🎂 17 y.o. 
 
 ## I'm currently learning:
 
