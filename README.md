@@ -4,10 +4,6 @@
 - 🎓 **Student** at [@Alura](https://www.alura.com.br)  
 - 🔧 Focused on **Back-end Development**  
 
-## I'm currently learning:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
 ## Contacts:
 
 <div>
