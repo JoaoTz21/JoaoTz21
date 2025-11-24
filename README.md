@@ -1,4 +1,4 @@
-# 👋 Olá! seja bem vindo ao meu perfil do GitHub!
+#👋 Olá! seja bem vindo ao meu perfil do GitHub!
 ## 👋 Hello! Welcome to my Github profile.
 ### Meu nome é João Victor e meu apelido é "JoãoTz"!
 #### My name is João Victor and my nickname is "JoãoTz"!
